@@ -1,1 +1,1 @@
-This course project is a program that implements an information system for servicing a hotel. Users can book and cancel reservations. They can check for available rooms, declare a room temporarily unavailable and more.
+This course project is a program that implements an information system for servicing a hotel. Users can book and cancel reservations. They can check room availability, declare a room temporarily unavailable and so forth.
